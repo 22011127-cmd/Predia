@@ -1,0 +1,43 @@
+﻿대상,변수,Z>=3 이상후보수,고장검출수,검출률(Recall)
+Machine failure,Air temperature [K],0,0,0.0
+TWF,Air temperature [K],0,0,0.0
+HDF,Air temperature [K],0,0,0.0
+PWF,Air temperature [K],0,0,0.0
+OSF,Air temperature [K],0,0,0.0
+RNF,Air temperature [K],0,0,0.0
+Machine failure,Process temperature [K],0,0,0.0
+TWF,Process temperature [K],0,0,0.0
+HDF,Process temperature [K],0,0,0.0
+PWF,Process temperature [K],0,0,0.0
+OSF,Process temperature [K],0,0,0.0
+RNF,Process temperature [K],0,0,0.0
+Machine failure,Temp_diff,0,0,0.0
+TWF,Temp_diff,0,0,0.0
+HDF,Temp_diff,0,0,0.0
+PWF,Temp_diff,0,0,0.0
+OSF,Temp_diff,0,0,0.0
+RNF,Temp_diff,0,0,0.0
+Machine failure,Rotational speed [rpm],186,33,0.097
+TWF,Rotational speed [rpm],186,2,0.043
+HDF,Rotational speed [rpm],186,0,0.0
+PWF,Rotational speed [rpm],186,31,0.326
+OSF,Rotational speed [rpm],186,0,0.0
+RNF,Rotational speed [rpm],186,0,0.0
+Machine failure,Torque [Nm],44,42,0.124
+TWF,Torque [Nm],44,0,0.0
+HDF,Torque [Nm],44,1,0.009
+PWF,Torque [Nm],44,41,0.432
+OSF,Torque [Nm],44,6,0.061
+RNF,Torque [Nm],44,0,0.0
+Machine failure,Power [kW],48,48,0.142
+TWF,Power [kW],48,1,0.022
+HDF,Power [kW],48,1,0.009
+PWF,Power [kW],48,48,0.505
+OSF,Power [kW],48,8,0.082
+RNF,Power [kW],48,0,0.0
+Machine failure,Tool wear [min],0,0,0.0
+TWF,Tool wear [min],0,0,0.0
+HDF,Tool wear [min],0,0,0.0
+PWF,Tool wear [min],0,0,0.0
+OSF,Tool wear [min],0,0,0.0
+RNF,Tool wear [min],0,0,0.0
